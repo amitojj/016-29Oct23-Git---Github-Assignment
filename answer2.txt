@@ -1,0 +1,9 @@
+Git has three main areas in its workflow:
+1.Working Directory: Your local file system where you create, modify, and delete files. This is where we write our code.
+2.Staging Area : This is a temporary area where changes are prepared before committing to the repository using git add.
+3.Repository: The database where Git stores commits of the project, maintaining a complete history. git commit permanently saves changes from the staging area to the repository.
+
+AFter these 3 areas 4th step in work flow is pushing local repository to an online service like GitHub, bitbucket or gitLab.
+
+
+
